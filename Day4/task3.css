@@ -1,0 +1,18 @@
+.section{
+    height: 100px;
+    width: 200px;
+    background-color: yellow;
+}
+
+.button1{
+    border: 3px coral;
+    padding: 2px;
+    margin: 10;
+    background-color: red;
+}
+
+.button2{
+    border: 5px coral;
+    margin: 20px;
+    background-color: white;
+}

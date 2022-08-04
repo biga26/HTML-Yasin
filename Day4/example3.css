@@ -1,0 +1,11 @@
+#container{
+    background-color: salmon;
+    padding: 5px;
+}
+.block{
+    background-color: green;
+}
+
+.inline{
+    background-color: yellow;
+}

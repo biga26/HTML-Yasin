@@ -1,0 +1,12 @@
+body{
+    background-color: orange;
+    font-size: 24 px;
+}
+
+.first{
+    font-style: italic;
+}
+
+.third{
+    color: red;
+}

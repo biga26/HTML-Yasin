@@ -1,0 +1,26 @@
+.circle{
+    background-color: gray;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    
+}
+
+#container{
+    background-color: green;
+    border-bottom: red solid 5px;
+    border-top: pink dotted 5px;
+    border-left: salmon dashed 5px;
+    border-right: black solid 10px;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    
+    
+    
+}
+
+

@@ -1,0 +1,18 @@
+.container{
+    height: 300px;
+    width: 400px;
+    background-color: yellow;
+}
+
+.title{
+    height: 50 px;
+    width: 250px;
+    background-color: orange;
+}
+
+
+.content{
+    height: 100px;
+    width: 250px;
+    background-color: green;
+}

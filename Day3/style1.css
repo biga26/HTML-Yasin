@@ -1,0 +1,17 @@
+
+h1{
+    font-style: italic;
+    color: green;
+}
+
+p{
+    color: red;
+    font-style: bold;
+    background-color: yellow;
+    font-style: arial;
+    text-align: center;
+    font-size: 12;
+    font-weight: bold;
+    line-height: 2;
+}
+
